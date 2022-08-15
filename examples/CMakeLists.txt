@@ -1,0 +1,5 @@
+add_subdirectory(simple)
+add_subdirectory(sudoku)
+add_subdirectory(filetransfer)
+add_subdirectory(chat)
+add_subdirectory(maxconnection)
